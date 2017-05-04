@@ -25,3 +25,4 @@ public class Switch {
 		driver.switchTo().window(currentwindow);
 	}
 }
+//更改内容，测试Guthup的同步性
